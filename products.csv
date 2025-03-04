@@ -1,0 +1,19 @@
+ID,Name,Price,Category,Description,Availability
+1001,Apple iPhone 14,999,Smartphones,"Latest iPhone with advanced camera and performance",Instock
+1002,Samsung Galaxy S22,799,Smartphones,"High-end smartphone with sleek design and powerful features",Instock
+1003,Google Pixel 7,699,Smartphones,"Google's flagship smartphone with excellent camera and AI features",Instock
+1004,Dell XPS 13 Laptop,1199,Laptops,"Premium ultrabook with compact design and powerful performance",Instock
+1005,MacBook Air M2,1299,Laptops,"Lightweight laptop featuring the powerful M2 chip for efficiency",Instock
+1006,HP Spectre x360,1099,Laptops,"Convertible laptop with stylish design and strong performance",Instock
+1007,Sony WH-1000XM4 Headphones,349,Headphones,"Industry-leading noise-cancelling headphones with superior sound",Out Of Stock
+1008,Bose QuietComfort 35 II,299,Headphones,"Comfortable wireless headphones with excellent noise cancellation",Out Of Stock
+1009,Sennheiser Momentum 3,399,Headphones,"Premium headphones offering exceptional sound quality and design",Instock
+1010,Amazon Echo Dot,49,Smart Home,"Compact smart speaker with Alexa voice control for your home",Instock
+1011,Google Nest Hub,89,Smart Home,"Smart display with intuitive controls and Google Assistant integration",Instock
+1012,Apple HomePod Mini,99,Smart Home,"Small smart speaker delivering impressive sound and Siri functionality",Instock
+1013,Fitbit Versa 3,229,Wearables,"Fitness smartwatch with health tracking and built-in GPS",Instock
+1014,Apple Watch Series 8,399,Wearables,"Advanced smartwatch with comprehensive health features and stylish design",Out Of Stock
+1015,Garmin Forerunner 955,499,Wearables,"High-performance GPS watch designed for serious athletes",Instock
+1200,ZERO Crystal Table Lamp,50,Home Decor,"3 Colors, Brightness Adjustment, Touch Contol, Premium Luxury Look, 5 Hours Battery Backup",Instock
+1220,Diamond Table Lamp,40,Home Decor,"16 Clolors LED Table Lamp, Remote Control, Various MOde Of Lighting. Best Light For Night, 5 Hours Battery Backup",Instock
+1230,Rose Table Lamp,30,Home Decor,"17 Clolors LED Table Lamp, Remote Control, Various MOde Of Lighting. Best Light For Night, 5 Hours Battery Backup",Out Of Stock

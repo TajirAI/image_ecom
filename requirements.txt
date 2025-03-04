@@ -1,0 +1,10 @@
+openai
+streamlit
+langchain
+faiss-cpu
+easyocr
+pandas
+Pillow
+numpy
+langchain_community
+tiktoken
