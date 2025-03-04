@@ -408,9 +408,9 @@ def main():
         image = Image.open(uploaded_file)
         print("image", image)
         
-        with st.spinner("Generating Response..."):
-            extracted_texts = extract_text_from_image(image)
-            product_details = lookup_product_details(extracted_texts)
+        
+        extracted_texts = extract_text_from_image(image)
+        product_details = lookup_product_details(extracted_texts)
         
         # Display the product details using the same chat message style as other responses.
         with st.chat_message("assistant"):
