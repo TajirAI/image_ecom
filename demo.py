@@ -2,7 +2,6 @@ import os
 import json
 import streamlit as st
 import pandas as pd
-from dotenv import load_dotenv
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts import PromptTemplate
 from langchain.schema import Document
@@ -17,9 +16,9 @@ import os
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
 # Load environment variables and the OpenAI API key
-load_dotenv()
 
-openai_api_key = os.getenv("GPT_API_KEY")
+
+openai_api_key = st.secrets["api"]["key"]  # or st.secrets.api.key
 
 if not openai_api_key:
     raise ValueError("Please set the OPENAI_API_KEY environment variable.")
